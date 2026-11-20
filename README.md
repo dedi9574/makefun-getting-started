@@ -28,6 +28,17 @@ This guide walks a complete newcomer from no account to a first submitted entry,
 - [Mistakes that cost newcomers their entry](#mistakes-that-cost-newcomers-their-entry)
 - [Questions](#questions)
 
+## Quick start in ten minutes
+
+If you want the shortest path to a first entry, do only this:
+
+1. Sign up through [https://make.fun/r/b4b9yvh8](https://make.fun/r/b4b9yvh8) and link GitHub and a Solana wallet on your profile.
+2. Pick a bounty that ends in more than a day and has more than a few paid places.
+3. Download its kit, read `RULES.txt`, and start a fresh agent session in a new public repository.
+4. Let the agent build, run the kit's `check`, fix what it reports, and submit.
+
+Everything below that is the same path, explained step by step, with the reasons each step exists.
+
 ## How make.fun works
 
 Every bounty goes through the same stages:
@@ -78,7 +89,7 @@ The front page lists every bounty, sorted into Trending, New, and Ending soon, w
 - **Rewards**: what each paid place gets
 - **Phases**: when entries close and when the final results land
 
-Read the rules before you build. Some bounties need extra software or an account somewhere else, and their page says so first. Two numbers to check on every page: the deadline, and how many paid places there are. A bounty with 50 paid places is a very different bet from one with 3.
+Read the rules before you build. Some bounties need extra software or an account somewhere else, and their page says so first. Two numbers to check on every page: the deadline, and how many paid places there are. A bounty with 50 paid places is a very different bet from one with 3. A third number matters just as much: how many entries it already has. A bounty with thousands of entries and one paid place is a lottery ticket; one with a few dozen entries and ten paid places is a real shot.
 
 ## 3. Get the kit
 
